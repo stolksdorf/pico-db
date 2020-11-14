@@ -1,0 +1,17 @@
+{
+  "name": "pico-db",
+  "version": "1.0.0",
+  "description": "A tiny file system based database using JSON files",
+  "main": "pico-db.js",
+  "scripts": {
+    "test": "pico-check ./tests",
+    "test:dev": "pico-check --watch ./tests"
+  },
+  "keywords": ["json", "db", "database", "file system", "pico"],
+  "author": "stolksdorf",
+  "license": "MIT",
+  "devDependencies": {
+    "pico-check": "^2.0.3"
+  },
+  "dependencies": {}
+}
