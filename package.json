@@ -1,5 +1,5 @@
 {
-  "name": "pico-db",
+  "name": "@stolksdorf/pico-db",
   "version": "1.0.0",
   "description": "A tiny file system based database using JSON files",
   "main": "pico-db.js",

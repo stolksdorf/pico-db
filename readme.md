@@ -5,6 +5,9 @@
 `pico-db` is an incredibly simple filesystem-based database where each table is a folder, and each record is it's own JSON file. Useful for small/local projects, unit testing, and quickly bootstrapping new projects.
 
 
+`npm install @stolksdorf/pico-db`
+
+
 ### Features
 - 75 lines of code
 - no dependacies
